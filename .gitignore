@@ -3,6 +3,7 @@
 *.iml
 *.class
 target/
+vcs.xml
 *.log
 *.log.1
 *.project
